@@ -2,7 +2,7 @@
 Run Type: Long run  
 Distance: 18.1 Miles  
 Pace: 8:41  
-Time: 2:37:00
+Time: 2:37:00  
 Description of run:  
 This was a long run with 2 30 minute intervals.  The two intervals were at goal marathon pace.  With my three pace range, that is 7:50 to 8:10.  The rest between the two intervals was 5 minutes at an easy pace.
 

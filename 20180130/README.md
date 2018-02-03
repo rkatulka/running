@@ -1,4 +1,4 @@
-### Training Run: Wed Jan 31 19:50:05 EST 2018
+### Training Run: Wed Jan 30 19:50:05 EST 2018
 **Run Type:** 2 Mile Time Trial
 **Distance:** 6 Miles
 **Pace:** 6:36 pace for trial
